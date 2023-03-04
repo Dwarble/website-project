@@ -1,0 +1,15 @@
+header {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.header-logo {
+    display: flex;
+    font-size: 24px;
+    -ms-flex-align: start;
+}
+
+.links {
+    display: flex;
+}
